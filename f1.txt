@@ -4,3 +4,5 @@ Modified file on master branch
 
 Updated the file on feature2 branch
 
+Added another line after creating feature3 (CHnages were done on master branch itself)
+
