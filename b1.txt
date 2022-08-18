@@ -1,1 +1,3 @@
 Creating a new file b1 on bugfix1 branch
+
+Cloning from vs code
