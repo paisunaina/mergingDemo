@@ -1,1 +1,2 @@
 New file f1 on feature branch
+Updated the file on feature2 branch
