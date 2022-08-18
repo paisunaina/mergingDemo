@@ -8,3 +8,4 @@ Added another line after creating feature3 (CHnages were done on master branch i
 
 Modified file on master branch after creating a new branch feature4
 
+Modified file after creating a new branch name bugfix1
